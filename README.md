@@ -10,3 +10,8 @@ ssh root@[router IP]
 cd /tmp
 ```
 Then, run the scripts you want.
+
+## Resources
+* []()
+* [Configuration in scripts](https://openwrt.org/docs/guide-developer/config-scripting)
+* []()
